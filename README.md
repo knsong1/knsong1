@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WordPress, Java, PHP**
 
-- 👯 I’m currently collaborating on Squawker (deployment in progress)
+- 👯 I’m currently collaborating on [Squawker] (deployment in progress)
 
 - 👨‍💻 All of my projects are available at [https://kristina-song-portfolio.onrender.com/index.html](https://kristina-song-portfolio.onrender.com/index.html)
 
