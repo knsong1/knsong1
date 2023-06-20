@@ -1,4 +1,4 @@
-![MasterHead](https://i.stack.imgur.com/lxj2w.gif)
+![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 <h1 align="center">Hi 👋, I'm Kristina Song</h1>
 <h3 align="center">Motivated and hardworking Junior Frontend Developer with proficiency in HTML, CSS, JavaScript, and React. Committed to the belief that diversity in tech leads to more personal, accessible web experiences. Eager to continuously learn and contribute to the evolution of the industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
