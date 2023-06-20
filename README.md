@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
+![MasterHead] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F663238-stary-night-beautiful-gif&psig=AOvVaw3nQOfOmDYqy8N-uD8QVhVx&ust=1687322619509000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiazNyE0f8CFQAAAAAdAAAAABBY)
 <h1 align="center">Hi 👋, I'm Kristina Song</h1>
 <h3 align="center">Motivated and hardworking Junior Frontend Developer with proficiency in HTML, CSS, JavaScript, and React. Committed to the belief that diversity in tech leads to more personal, accessible web experiences. Eager to continuously learn and contribute to the evolution of the industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
