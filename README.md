@@ -1,5 +1,5 @@
 
-  ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b65ddea7-43ac-40c5-a68b-1c8b105184a5/d34kl9q-0ba39d43-fa6c-48fe-b1ed-5e78388b0931.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2NWRkZWE3LTQzYWMtNDBjNS1hNjhiLTFjOGIxMDUxODRhNVwvZDM0a2w5cS0wYmEzOWQ0My1mYTZjLTQ4ZmUtYjFlZC01ZTc4Mzg4YjA5MzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xopG3mZ1iMInJtNx5EM_AhBLJLrV6COJY6rZRNy2tUM)
+  ![MasterHead](https://media0.giphy.com/headers/trace2017/JfSyGEYGoCCX.gif)
 
 <p align="center">
   Donate to:  <a href="https://donate.amnestyusa.org/page/92978/donate/1?ea.tracking.id=W23XXWDEVR0HP&supporter.appealCode=W23XXWDEVR0HP&en_og_source=W23XXWDEVR0HP&_gl=1*1plyr18*_gcl_au*MTgzMTg3OTYwLjE2ODcyMzgwNjg." target="blank">Amnesty Inernational</a> </p>
