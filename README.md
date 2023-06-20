@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 <h1 align="center">Hi 👋, I'm Kristina Song</h1>
 <h3 align="center">Motivated and hardworking Junior Frontend Developer with proficiency in HTML, CSS, JavaScript, and React. Committed to the belief that diversity in tech leads to more personal, accessible web experiences. Eager to continuously learn and contribute to the evolution of the industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
