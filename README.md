@@ -2,7 +2,7 @@
   ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b65ddea7-43ac-40c5-a68b-1c8b105184a5/d34kl9q-0ba39d43-fa6c-48fe-b1ed-5e78388b0931.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2NWRkZWE3LTQzYWMtNDBjNS1hNjhiLTFjOGIxMDUxODRhNVwvZDM0a2w5cS0wYmEzOWQ0My1mYTZjLTQ4ZmUtYjFlZC01ZTc4Mzg4YjA5MzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xopG3mZ1iMInJtNx5EM_AhBLJLrV6COJY6rZRNy2tUM)
 
 <p align="center">
-  Donate to: Amnesty Inernational <a href="https://donate.amnestyusa.org/page/92978/donate/1?ea.tracking.id=W23XXWDEVR0HP&supporter.appealCode=W23XXWDEVR0HP&en_og_source=W23XXWDEVR0HP&_gl=1*1plyr18*_gcl_au*MTgzMTg3OTYwLjE2ODcyMzgwNjg." ></a> </p>
+  Donate to:  <a href="https://donate.amnestyusa.org/page/92978/donate/1?ea.tracking.id=W23XXWDEVR0HP&supporter.appealCode=W23XXWDEVR0HP&en_og_source=W23XXWDEVR0HP&_gl=1*1plyr18*_gcl_au*MTgzMTg3OTYwLjE2ODcyMzgwNjg." target="blank">Amnesty Inernational</a> </p>
 <h1 align="center">Hi 👋🏽, I'm Kristina Song</h1>
 <h3 align="center">Motivated and hardworking Junior Frontend Developer with proficiency in HTML, CSS, JavaScript, and React. Committed to the belief that diversity in tech leads to more personal, accessible web experiences. Eager to continuously learn and contribute to the evolution of the industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
