@@ -4,7 +4,7 @@
 <p align="center">
   Donate to:  <a href="https://donate.amnestyusa.org/page/92978/donate/1?ea.tracking.id=W23XXWDEVR0HP&supporter.appealCode=W23XXWDEVR0HP&en_og_source=W23XXWDEVR0HP&_gl=1*1plyr18*_gcl_au*MTgzMTg3OTYwLjE2ODcyMzgwNjg." onclick="window.open(this.href, '_blank'); return false;" >Amnesty Inernational</a> </p>
 <h1 align="center">Hi 👋🏽, I'm Kristina Song</h1>
-<h3 align="center">Motivated and hardworking Junior Software Engineer with proficiency in HTML, CSS, JavaScript, and React. Committed to the belief that diversity in tech leads to more personal, accessible web experiences. Eager to continuously learn and contribute to the evolution of the industry.</h3>
+<h3 align="center">Motivated and hardworking Software Engineer with proficiency in HTML, CSS, JavaScript, and React. Committed to the belief that diversity in tech leads to more personal, accessible web experiences. Eager to continuously learn and contribute to the evolution of the industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
 
 - 🔭 I’m currently working on [Cozzi Handmade Treats] (deployment in progress)
